@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**almasike/almasike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 🔭 I’m currently working on software engineering <br><br>🌱 I’m currently learning backend web development <br><br>🤝 I’m looking for help with Chessgame<br><br>👨‍💻 All of my projects are available at https://github.com/almasike<br><br>📝 I regularly design systems<br><br>💬 Ask me about python<br><br>📫 How to reach me ogetoedgar@students.uonbi.ac.ke<br><br>📄 Know about my experiences is more of maintaining systems
 
@@ -30,4 +23,3 @@ Here are some ideas to get you started:
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
